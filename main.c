@@ -64,5 +64,7 @@ int main() {
     // Step 7: Free dynamically allocated memory
     free(employees);
 
+    printf("Thank you for using the Employee Average System!");
+    
     return 0;
 }
